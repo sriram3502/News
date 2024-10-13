@@ -24,7 +24,7 @@ Our news aggregator works in 3 steps:<br>
 ----------------------------------------------------------------------------------------
 ### Screenshots ###
 ![](https://github.com/sriram3502/News-Aggregator/blob/master/screenshots/ss.PNG)
-![](https://github.com/sakship31/News-Aggregator/blob/master/screenshots/ss1.PNG)
+![](https://github.com/sriram3502/News-Aggregator/blob/master/screenshots/ss1.PNG)
 ---------------------------------------------------------------------------------------
 
 ## How To Use
